@@ -1,0 +1,2 @@
+rootProject.name = "VocabularyBuilder"
+include ':app'
